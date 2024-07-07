@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mudathiralfadil
-- 👀 I’m interested in motion geaphics design
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on solar energy fields
-- 📫 How to reach me throught my emails
+- 👀 I’m interested in motion graphics design
+- 🌱 I’m currently learning  Embedded Software Engineering
+- 💞️ I’m looking to collaborate on IoT Field
+- 📫 You can reach me through my emails
 
 <!---
 mudathiralfadil/mudathiralfadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
